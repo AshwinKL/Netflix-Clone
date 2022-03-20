@@ -1,0 +1,7 @@
+.env
+build
+.firebaserc
+firebase.json
+.firebase
+node
+node_modules
