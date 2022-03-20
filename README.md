@@ -17,7 +17,10 @@ Netflix Clone frontend created using React Js and Firebase hosting.
 </p>
 <br/>
 
-Watch the live website [here](https://netflix-clone-kl.web.app/)
+Watch the live website [here]https://netflix-clone-valk.web.app/)
 
 - Api Used - TMDB Api
 - Backend and hosting - FIREBASE
+
+Source:
+- This app is created using the tutorial of [Clever Programmer](https://www.youtube.com/c/CleverProgrammer). Thank you!
